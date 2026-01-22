@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cyber-goka
-- 👀 I’m interested in DevOps, automation, little bit in electornics, etc..
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in DevOps, automation,AI/ML, little bit in electornics, etc..
 - 💞️ I’m looking to collaborate on open source projects which needs k8s deployements, dockerization, automatic builds etc...
 - 📫 idk yet
 
